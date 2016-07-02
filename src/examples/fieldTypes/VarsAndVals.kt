@@ -11,8 +11,8 @@ fun main(args: Array<String>) {
      */
     var firstVar = 5;
     firstVar = firstVar + 1;
-    val firstal = 1;
+    val firstVal = 1;
     /*The statement below will not work so it is commented out.
-    val = val+1;
+    firstVal = firstV al+1;
     */
 }
