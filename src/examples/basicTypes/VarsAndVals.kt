@@ -1,4 +1,4 @@
-package examples.fieldTypes
+package examples.basicTypes
 
 /**
  * Created by emirarditi on 02.07.2016.

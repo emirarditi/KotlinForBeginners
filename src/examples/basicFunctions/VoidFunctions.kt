@@ -1,4 +1,4 @@
-package examples.functions
+package examples.basicFunctions
 
 /**
  * Created by emirarditi on 02.07.2016.
