@@ -5,7 +5,7 @@ package examples.statements
  */
 
 fun main(args: Array<String>) {
-    /*First of all, I would like to state that this will be a long file, because there are lots of different
+    /*First of all, I would like to state that this will be a relatively long file, because there are lots of different
     use cases for when in Kotlin. Speaking of cases, Kotlin replace the switch/case flow in Java with when,
     but with a lot of different features. First I will show you the most basic when statement in Kotlin.
      */
