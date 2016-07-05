@@ -22,7 +22,6 @@ class HumanWithhoutPrimaryConstructor{
         humanName = name;
         humanAge = age;
     }
-
 }
 
 class HumanWithPrimaryAndSecondaryConstructor(name : String, age : Int){
