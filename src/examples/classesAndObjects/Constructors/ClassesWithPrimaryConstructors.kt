@@ -1,4 +1,4 @@
-package examples.classesAndObjects
+package examples.classesAndObjects.Constructors
 
 /**
  * Created by emirarditi on 02.07.2016.
