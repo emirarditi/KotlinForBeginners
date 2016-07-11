@@ -11,7 +11,7 @@ package examples.classesAndObjects.Inheritance
  */
 
 open class Animal{
-    open fun eat() {};
+    open fun eat() {print("hello")};
 }
 
 class Dog : Animal(){

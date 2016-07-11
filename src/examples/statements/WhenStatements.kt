@@ -69,3 +69,12 @@ fun main(args: Array<String>) {
         else -> println("false");
     }
 }
+
+/*
+    Also, you can equate a single when to a return function without using the return keyword
+ */
+
+fun returnMe(parameter : Int) : String = when(parameter){
+    1 -> "I am a 1"
+    else -> "I am something else"
+}
