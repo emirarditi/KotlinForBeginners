@@ -1,7 +1,5 @@
 # projectAlpha 
-is a project that me an a couple of friends are making in order to understand Kotlin better. It is not trying to replace any
-documentatiion or anything like that. It is just made for pure kotlin n00bie purposes. At first, we are writing a documentation in order to
-check syntax, later we will create a simple project powered fully by Kotlin.
+Project alpha is an example documentation project for the language Kotlin. Our main purpose is to help people improve. We tried to show different ways to do different things in order to satisify different types of coding styles. 
 
 For the documentation, we are using the following pdf as a referance:
 https://kotlinlang.org/docs/kotlin-docs.pdf
